@@ -19,19 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="finish footer &amp; move css file">
+    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="update fonts &amp; fix footer align">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/demo_index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/demo_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/demo_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.json" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -89,7 +88,7 @@
       <updated>1602577445438</updated>
       <workItem from="1602577446473" duration="7114000" />
       <workItem from="1602585381984" duration="167000" />
-      <workItem from="1602591662806" duration="15429000" />
+      <workItem from="1602591662806" duration="16970000" />
     </task>
     <task id="LOCAL-00001" summary="new project for my blog">
       <created>1602583780626</created>
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602643633990</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update fonts &amp; fix footer align">
+      <created>1602656881443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602656881443</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +140,8 @@
     <MESSAGE value="new project for my blog" />
     <MESSAGE value="update README.md" />
     <MESSAGE value="finish footer &amp; move css file" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish footer &amp; move css file" />
+    <MESSAGE value="update fonts &amp; fix footer align" />
+    <option name="LAST_COMMIT_MESSAGE" value="update fonts &amp; fix footer align" />
   </component>
   <component name="WindowStateProjectService">
     <state x="931" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602656800066">

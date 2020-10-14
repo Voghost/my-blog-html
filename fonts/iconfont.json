@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "219595",
+      "name": "blog",
+      "font_class": "blog",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "348404",
+      "name": "copyright",
+      "font_class": "copyright",
+      "unicode": "ea75",
+      "unicode_decimal": 60021
+    },
+    {
+      "icon_id": "3248672",
+      "name": "备案",
+      "font_class": "beian",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
       "icon_id": "5776865",
       "name": "org",
       "font_class": "org",

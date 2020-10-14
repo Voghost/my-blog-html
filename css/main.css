@@ -126,6 +126,10 @@ body{
     color: #979797;
 }
 
+.foot-links:hover{
+    color: #c9c9c9;
+}
+
 .bei-an{
     text-decoration:none;
     font-size: 10px;
