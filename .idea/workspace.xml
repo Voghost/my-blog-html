@@ -19,11 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="update README.md">
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mypage.jpg" afterDir="false" />
+    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="finish footer &amp; move css file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/demo_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.woff2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +89,7 @@
       <updated>1602577445438</updated>
       <workItem from="1602577446473" duration="7114000" />
       <workItem from="1602585381984" duration="167000" />
-      <workItem from="1602591662806" duration="7563000" />
+      <workItem from="1602591662806" duration="15429000" />
     </task>
     <task id="LOCAL-00001" summary="new project for my blog">
       <created>1602583780626</created>
@@ -97,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602585423479</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finish footer &amp; move css file">
+      <created>1602643633990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602643633990</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,22 +133,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new project for my blog" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="finish footer &amp; move css file" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish footer &amp; move css file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2618" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602581548405">
-      <screen x="1920" y="198" width="1920" height="1030" />
+    <state x="931" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602656800066">
+      <screen x="0" y="42" width="2560" height="1558" />
     </state>
+    <state x="931" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.42.2560.1558@0.42.2560.1558" timestamp="1602656800066" />
     <state x="2618" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602581548405" />
-    <state x="747" y="422" key="Vcs.Push.Dialog.v2" timestamp="1602585459235">
+    <state x="747" y="422" key="Vcs.Push.Dialog.v2" timestamp="1602643671905">
       <screen x="0" y="42" width="2560" height="1558" />
     </state>
-    <state x="747" y="422" key="Vcs.Push.Dialog.v2/0.42.2560.1558@0.42.2560.1558" timestamp="1602585459235" />
+    <state x="747" y="422" key="Vcs.Push.Dialog.v2/0.42.2560.1558@0.42.2560.1558" timestamp="1602643671905" />
     <state x="2480" y="449" key="Vcs.Push.Dialog.v2/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602583857797" />
-    <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602643549765">
+    <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602645283240">
       <screen x="0" y="42" width="2560" height="1558" />
     </state>
-    <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.42.2560.1558@0.42.2560.1558" timestamp="1602643549765" />
+    <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.42.2560.1558@0.42.2560.1558" timestamp="1602645283240" />
     <state x="2190" y="391" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602584577388" />
   </component>
 </project>
