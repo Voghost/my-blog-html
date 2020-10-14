@@ -1,0 +1,131 @@
+body{
+    font-family: "微软雅黑" , "Noto Sans";
+}
+/*标题栏*/
+.header {
+    width: 100%;
+    height: 70px;
+    background-color: #1B1C1D;
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
+}
+
+/*标题栏居中显示*/
+.header-mid {
+    width: 700px;
+    height: 70px;
+    margin: auto;
+}
+
+/*标题语*/
+.title {
+    color: #00B5AD;
+    font-size: 30px;
+    line-height: 70px;
+    padding: 0 10px;
+    margin-right: 30px;
+    margin-left: -50px;
+    float: left;
+}
+
+.title:hover {
+    color: #66dcd3;
+}
+
+
+.select {
+    color: #eee8e8;
+    float: left;
+    margin-top: 7px;
+    line-height: 70px;
+    font-size: 16px;
+    padding: 0 15px;
+}
+
+.iconfont {
+    font-size: 18px;
+}
+
+.select:hover {
+    color: white;
+}
+
+/*搜索框*/
+.search {
+    margin-top: 30px;
+    height: 25px;
+    width: 150px;
+    background-color: white;
+
+    float: right;
+    border-radius: 4px;
+}
+
+.search-input {
+    width: 100px;
+    height: 20px;
+    color: #787878;
+    margin-left: 4px;
+    border: 0;
+}
+
+.main {
+    width: 1120px;
+    height: 1000px;
+    background-color: #bfa;
+    margin: 30px auto;
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
+}
+
+
+/*尾部*/
+.footer {
+    width: auto;
+    height: 150px;
+    margin-top: 30px;
+    background-color: #1B1C1D;
+}
+
+.foot-mid{
+    width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.foot-title{
+    height: 40px;
+    float: left;
+    color: #ededed;
+    font-size: 18px;
+    float: left;
+    margin: 40px 50px;
+}
+
+.foot-messages{
+    height: 40px;
+    float: left;
+    color: #b2b2b2;
+    padding: 30px 70px;
+}
+/*分隔符*/
+.foot-divide{
+    width: 1px;
+    height: 100px;
+    background-color: #6e6e6e;
+    /*border: #878787 1px;*/
+    float: left;
+    margin-top: 23px;
+}
+
+.foot-message{
+    margin-bottom: 10px;
+}
+
+.bei-an{
+    text-decoration:none;
+    font-size: 10px;
+    color: #5c5c5c;
+}
+
+.bei-an:hover{
+    color: #919191;
+}
+

@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="new project for my blog">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="update README.md">
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mypage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -15,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -31,7 +52,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,6 +63,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/css" />
@@ -55,6 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602577445438</updated>
       <workItem from="1602577446473" duration="7114000" />
+      <workItem from="1602585381984" duration="167000" />
+      <workItem from="1602591662806" duration="7563000" />
     </task>
     <task id="LOCAL-00001" summary="new project for my blog">
       <created>1602583780626</created>
@@ -63,28 +90,50 @@
       <option name="project" value="LOCAL" />
       <updated>1602583780626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update README.md">
+      <created>1602585423479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602585423479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new project for my blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project for my blog" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2618" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602581548405">
       <screen x="1920" y="198" width="1920" height="1030" />
     </state>
     <state x="2618" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602581548405" />
-    <state x="2480" y="449" key="Vcs.Push.Dialog.v2" timestamp="1602583857797">
-      <screen x="1920" y="198" width="1920" height="1030" />
+    <state x="747" y="422" key="Vcs.Push.Dialog.v2" timestamp="1602585459235">
+      <screen x="0" y="42" width="2560" height="1558" />
     </state>
+    <state x="747" y="422" key="Vcs.Push.Dialog.v2/0.42.2560.1558@0.42.2560.1558" timestamp="1602585459235" />
     <state x="2480" y="449" key="Vcs.Push.Dialog.v2/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602583857797" />
-    <state x="2190" y="391" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602584577388">
-      <screen x="1920" y="198" width="1920" height="1030" />
+    <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602643549765">
+      <screen x="0" y="42" width="2560" height="1558" />
     </state>
+    <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.42.2560.1558@0.42.2560.1558" timestamp="1602643549765" />
     <state x="2190" y="391" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602584577388" />
   </component>
 </project>
