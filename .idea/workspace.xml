@@ -21,16 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="update fonts &amp; fix footer align">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/demo_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/demo_index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.json" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/iconfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +78,7 @@
       <updated>1602577445438</updated>
       <workItem from="1602577446473" duration="7114000" />
       <workItem from="1602585381984" duration="167000" />
-      <workItem from="1602591662806" duration="16970000" />
+      <workItem from="1602591662806" duration="19312000" />
     </task>
     <task id="LOCAL-00001" summary="new project for my blog">
       <created>1602583780626</created>
@@ -118,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602656881443</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update fonts &amp; fix footer align">
+      <created>1602659557414</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602659557414</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,15 +146,19 @@
     </state>
     <state x="931" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.42.2560.1558@0.42.2560.1558" timestamp="1602656800066" />
     <state x="2618" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602581548405" />
-    <state x="747" y="422" key="Vcs.Push.Dialog.v2" timestamp="1602643671905">
+    <state x="747" y="422" key="Vcs.Push.Dialog.v2" timestamp="1602660905331">
       <screen x="0" y="42" width="2560" height="1558" />
     </state>
-    <state x="747" y="422" key="Vcs.Push.Dialog.v2/0.42.2560.1558@0.42.2560.1558" timestamp="1602643671905" />
+    <state x="747" y="422" key="Vcs.Push.Dialog.v2/0.42.2560.1558@0.42.2560.1558" timestamp="1602660905331" />
     <state x="2480" y="449" key="Vcs.Push.Dialog.v2/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602583857797" />
     <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602645283240">
       <screen x="0" y="42" width="2560" height="1558" />
     </state>
     <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.42.2560.1558@0.42.2560.1558" timestamp="1602645283240" />
     <state x="2190" y="391" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602584577388" />
+    <state x="873" y="780" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602660179097">
+      <screen x="0" y="42" width="2560" height="1558" />
+    </state>
+    <state x="873" y="780" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.42.2560.1558@0.42.2560.1558" timestamp="1602660179097" />
   </component>
 </project>
