@@ -69,14 +69,46 @@ body{
     border: 0;
 }
 
+/*主要内容区*/
 .main {
-    width: 1120px;
+    width: 1200px;
     height: 1000px;
+    /*颜色方便定位*/
     background-color: #bfa;
     margin: 30px auto;
+}
+
+
+/*内容*/
+.main-content{
+    width: 800px;
+    height: 960px;
+    /*颜色方便定位*/
+    background-color: #00B5AD;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+.main-content-title{
+    width: 700px;
+    height: 50px;
+    margin-left: 50px;
+    background-color: #55a532;
+    border-radius: 4px;
+    line-height: 50px;
+    padding: 0px 3px;
     box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
 }
 
+.main-select{
+    width: 340px;
+    height: 960px;
+    background-color: #6e6e6e;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
 
 /*尾部*/
 .footer {
