@@ -9,6 +9,7 @@ body{
     box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
 }
 
+
 /*标题栏居中显示*/
 .header-mid {
     width: 700px;
@@ -72,17 +73,23 @@ body{
 /*主要内容区*/
 .main {
     width: 1200px;
-    height: 1000px;
+    height: auto;
     /*颜色方便定位*/
     background-color: #bfa;
     margin: 30px auto;
 }
 
 
+.main:after{
+    content: ' ';
+    display: block;
+    clear: both;
+}
+
 /*内容*/
 .main-content{
     width: 800px;
-    height: 960px;
+    height: auto;
     /*颜色方便定位*/
     background-color: #00B5AD;
     margin-top: 20px;
@@ -90,10 +97,18 @@ body{
     float: left;
 }
 
+.main-content:after{
+    content: ' ';
+    display: table;
+    clear: both;
+
+}
+
 .main-content-title{
     width: 700px;
     height: 50px;
     margin-left: 50px;
+    /*背景颜色*/
     background-color: #55a532;
     border-radius: 4px;
     line-height: 50px;
@@ -101,12 +116,28 @@ body{
     box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
 }
 
+.main-content-content{
+    width: 700px;
+    height: 140px;
+    margin-left: 50px;
+    margin-top: 20px;
+    /*背景颜色*/
+    background-color: #55a532;
+    border-radius: 4px;
+    line-height: 100px;
+    padding: 0px 3px;
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
+
+}
+
 .main-select{
     width: 340px;
     height: 960px;
+    /*背景颜色*/
     background-color: #6e6e6e;
     margin-top: 20px;
     margin-left: 20px;
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
     float: left;
 }
 

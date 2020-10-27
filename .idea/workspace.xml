@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="update fonts &amp; fix footer align">
+    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="add main content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -85,6 +84,8 @@
       <workItem from="1603069275585" duration="3244000" />
       <workItem from="1603108644772" duration="946000" />
       <workItem from="1603110216460" duration="9000" />
+      <workItem from="1603117437601" duration="872000" />
+      <workItem from="1603786187109" duration="3270000" />
     </task>
     <task id="LOCAL-00001" summary="new project for my blog">
       <created>1602583780626</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602763333624</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add main content">
+      <created>1603117460888</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117460888</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +159,8 @@
     <MESSAGE value="update README.md" />
     <MESSAGE value="finish footer &amp; move css file" />
     <MESSAGE value="update fonts &amp; fix footer align" />
-    <option name="LAST_COMMIT_MESSAGE" value="update fonts &amp; fix footer align" />
+    <MESSAGE value="add main content" />
+    <option name="LAST_COMMIT_MESSAGE" value="add main content" />
   </component>
   <component name="WindowStateProjectService">
     <state x="931" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602656800066">
@@ -159,11 +168,12 @@
     </state>
     <state x="931" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.42.2560.1558@0.42.2560.1558" timestamp="1602656800066" />
     <state x="2618" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602581548405" />
-    <state x="747" y="422" key="Vcs.Push.Dialog.v2" timestamp="1602763337413">
-      <screen x="0" y="42" width="2560" height="1558" />
+    <state x="2768" y="422" key="Vcs.Push.Dialog.v2" timestamp="1603117463762">
+      <screen x="2021" y="42" width="2560" height="1558" />
     </state>
     <state x="747" y="422" key="Vcs.Push.Dialog.v2/0.42.2560.1558@0.42.2560.1558" timestamp="1602763337413" />
     <state x="2480" y="449" key="Vcs.Push.Dialog.v2/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602583857797" />
+    <state x="2768" y="422" key="Vcs.Push.Dialog.v2/2021.42.2560.1558/0.28.1920.1052@2021.42.2560.1558" timestamp="1603117463762" />
     <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602645283240">
       <screen x="0" y="42" width="2560" height="1558" />
     </state>
