@@ -75,7 +75,7 @@ body{
     width: 1200px;
     height: auto;
     /*颜色方便定位*/
-    background-color: #bfa;
+    /*background-color: #bfa;*/
     margin: 30px auto;
 }
 
@@ -91,7 +91,7 @@ body{
     width: 800px;
     height: auto;
     /*颜色方便定位*/
-    background-color: #00B5AD;
+    /*background-color: #00B5AD;*/
     margin-top: 20px;
     margin-left: 20px;
     float: left;
@@ -109,7 +109,7 @@ body{
     height: 50px;
     margin-left: 50px;
     /*背景颜色*/
-    background-color: #55a532;
+    /*background-color: #55a532;*/
     border-radius: 4px;
     line-height: 50px;
     padding: 0px 3px;
@@ -122,19 +122,60 @@ body{
     margin-left: 50px;
     margin-top: 20px;
     /*背景颜色*/
-    background-color: #55a532;
+    /*background-color: #55a532;*/
     border-radius: 4px;
-    line-height: 100px;
     padding: 0px 3px;
     box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
+}
 
+.main-content-content:before, .main-content-content:after{
+    content: '';
+    display: table;
+}
+
+.main-content-content-title{
+    width: 500px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 3px;
+    /*背景颜色*/
+    /*background-color: red;*/
+}
+
+.main-content-content-shortcut{
+    width: 550px;
+    height: 75px;
+    margin-top: 5px;
+    margin-left: 3px;
+    /*背景颜色*/
+    /*background-color: blue;*/
+}
+
+.main-content-content-imag{
+    width: 120px;
+    height: 120px;
+    /*背景颜色*/
+    /*background-color: yellow;*/
+    float: right;
+    margin-top: -105px;
+    margin-right: 10px;
+}
+
+.main-content-content-statistics{
+    width: 400px;
+    height: 15px;
+    font-size: 4px;
+    margin-left: 3px;
+    margin-top: 5px;
+    /*背景颜色*/
+    /*background-color: orange;*/
 }
 
 .main-select{
     width: 340px;
     height: 960px;
     /*背景颜色*/
-    background-color: #6e6e6e;
+    /*background-color: #6e6e6e;*/
     margin-top: 20px;
     margin-left: 20px;
     box-shadow: 0 0 9px rgba(0, 0, 0, 0.4);
