@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="解决高度塌陷问题">
+    <list default="true" id="ba642905-7428-4f35-a618-b377d6f44346" name="Default Changelist" comment="增加了内容区布局">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -49,8 +49,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -58,7 +59,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -69,6 +70,16 @@
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my-blog-html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +98,24 @@
       <workItem from="1603110216460" duration="9000" />
       <workItem from="1603117437601" duration="872000" />
       <workItem from="1603786187109" duration="4990000" />
-      <workItem from="1603798248974" duration="3856000" />
+      <workItem from="1603798248974" duration="3952000" />
+      <workItem from="1603802217984" duration="324000" />
+      <workItem from="1603956000035" duration="165000" />
+      <workItem from="1604050849213" duration="720000" />
+      <workItem from="1604061565513" duration="914000" />
+      <workItem from="1604112396844" duration="5000" />
+      <workItem from="1604123147918" duration="1717000" />
+      <workItem from="1604144457234" duration="3000" />
+      <workItem from="1605706830500" duration="30000" />
+      <workItem from="1606815941533" duration="137000" />
+      <workItem from="1606840806390" duration="85000" />
+      <workItem from="1606908214064" duration="13000" />
+      <workItem from="1607064577251" duration="6000" />
+      <workItem from="1607084401957" duration="599000" />
+      <workItem from="1607143154254" duration="11000" />
+      <workItem from="1607349439475" duration="5412000" />
+      <workItem from="1607396357635" duration="1513000" />
+      <workItem from="1607423624837" duration="1423000" />
     </task>
     <task id="LOCAL-00001" summary="new project for my blog">
       <created>1602583780626</created>
@@ -145,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603789495734</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="增加了内容区布局">
+      <created>1603802139980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603802139980</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,40 +205,11 @@
     <MESSAGE value="update fonts &amp; fix footer align" />
     <MESSAGE value="add main content" />
     <MESSAGE value="解决高度塌陷问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="解决高度塌陷问题" />
+    <MESSAGE value="增加了内容区布局" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了内容区布局" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1110" y="491" width="848" height="548" key="#Vim_Emulation" timestamp="1603797657914">
-      <screen x="0" y="42" width="2560" height="1558" />
-    </state>
-    <state x="1110" y="491" width="848" height="548" key="#Vim_Emulation/0.42.2560.1558@0.42.2560.1558" timestamp="1603797657914" />
-    <state x="737" y="421" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603798034329">
-      <screen x="0" y="42" width="2560" height="1558" />
-    </state>
-    <state x="737" y="421" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.42.2560.1558@0.42.2560.1558" timestamp="1603798034329" />
-    <state x="931" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602656800066">
-      <screen x="0" y="42" width="2560" height="1558" />
-    </state>
-    <state x="931" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.42.2560.1558@0.42.2560.1558" timestamp="1602656800066" />
-    <state x="2618" y="462" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602581548405" />
-    <state x="963" y="232" key="SettingsEditor" timestamp="1603798099579">
-      <screen x="0" y="42" width="2560" height="1558" />
-    </state>
-    <state x="963" y="232" key="SettingsEditor/0.42.2560.1558@0.42.2560.1558" timestamp="1603798099579" />
-    <state x="747" y="422" key="Vcs.Push.Dialog.v2" timestamp="1603789505271">
-      <screen x="0" y="42" width="2560" height="1558" />
-    </state>
-    <state x="747" y="422" key="Vcs.Push.Dialog.v2/0.42.2560.1558@0.42.2560.1558" timestamp="1603789505271" />
-    <state x="2480" y="449" key="Vcs.Push.Dialog.v2/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602583857797" />
-    <state x="2768" y="422" key="Vcs.Push.Dialog.v2/2021.42.2560.1558/0.28.1920.1052@2021.42.2560.1558" timestamp="1603117463762" />
-    <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602645283240">
-      <screen x="0" y="42" width="2560" height="1558" />
-    </state>
-    <state x="360" y="334" width="602" height="917" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.42.2560.1558@0.42.2560.1558" timestamp="1602645283240" />
-    <state x="2190" y="391" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.198.1920.1030/0.0.1920.1080@1920.198.1920.1030" timestamp="1602584577388" />
-    <state x="873" y="780" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602660179097">
-      <screen x="0" y="42" width="2560" height="1558" />
-    </state>
-    <state x="873" y="780" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.42.2560.1558@0.42.2560.1558" timestamp="1602660179097" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
